@@ -656,6 +656,7 @@ dtb-$(CONFIG_MACH_SUN50I) += \
 	sun50i-a64-pinephone-1.2.dtb \
 	sun50i-a64-pinetab.dtb \
 	sun50i-a64-sopine-baseboard.dtb \
+	sun50i-a64-sopine-clusterboard.dtb \
 	sun50i-a64-teres-i.dtb
 dtb-$(CONFIG_MACH_SUN9I) += \
 	sun9i-a80-optimus.dtb \
